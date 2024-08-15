@@ -21,7 +21,7 @@ This project explores the use of synthetic data for resource planning in child a
             ├── clustering.ipynb # Jupyter notebook for  Different distance-based clustering algorithms for mixed  synthetic/real data.
 ├── util/
    ├── functions.py   # Helper functions.
-├── data/ # vailable upon request.
+├── data/ # available upon request.
 │
 ├── requirements.txt                  # List of Python dependencies required for the project
 ├── README.md                         # Project overview and instructions (this file)
