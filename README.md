@@ -13,7 +13,8 @@ This project explores the use of synthetic data for resource planning in child a
 │   │   ├── prepare_real_data.ipynb   # Jupyter notebook for exploring and preparing real data
 │   │
 │   ├── modelling/  
-│   │   ├── HMASynthetiser.ipynb      # Jupyter notebook for synthetic data modeling
+│   │   ├── synthetise and evaluate quality and privacy/
+            ├── synthetise_and_evaluate.ipynb.ipynb # Jupyter notebook for synthetic data modeling and quality/privacy evaluation.
 │
 ├── requirements.txt                  # List of Python dependencies required for the project
 ├── README.md                         # Project overview and instructions (this file)
