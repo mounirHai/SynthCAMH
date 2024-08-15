@@ -33,7 +33,7 @@ Follow these steps:
 
 2. **Create a Conda environment**
 
-`conda create --name myenv python`
+`conda create --name myenv --file requirements.txt`
 
 3. **Activate the Conda Environment**
 
