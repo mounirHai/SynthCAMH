@@ -10,15 +10,10 @@ This project explores the use of synthetic data for resource planning in child a
 
 ├── notebooks/
 │ ├── exploratory/  
-│ │ ├── prepare_real_data.ipynb # Jupyter notebook for exploring and transforming/anonymizing data befor synthetising
+│ │ ├── prepare_real_data.ipynb # Jupyter notebook for exploring and preparing data
 │ │
 │ ├── modelling/  
-│ │ ├── synthetise and evaluate quality and privacy/ 
-      ├── synthetise_and_evaluate.ipynb.ipynb # Jupyter notebook for synthetic data modeling and quality/privacy evaluation
-	├── transform and evaluate utilty/
-	  ├── 1_prepare_data.ipynb # Jupyter notebook for data preparation for utility evaluation
-	  ├── 2_classification.ipynb # Train-Synthetic-Test-Real (TSTR) evaluation
-	  ├── 3_clustering.ipynb # Jupyter notebook for  Different distance-based clustering algorithms for mixed  synthetic/real data.
+│ │ ├── HMASynthetiser.ipynb # Jupyter notebook for synthetic data modeling
 │
 ├── requirements.txt # List of Python dependencies
 ├── README.md # Project overview and instructions
