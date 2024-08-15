@@ -9,16 +9,16 @@ This project explores the use of synthetic data for resource planning in child a
 ## Project Strucutre
 
 ├── notebooks/
-│ ├── exploratory/  
-│ │ ├── prepare_real_data.ipynb # Jupyter notebook for exploring and preparing data
+│ ├── exploratory/
+│ │ ├── prepare_real_data.ipynb # Jupyter notebook for exploring and preparing real data
 │ │
-│ ├── modelling/  
+│ ├── modelling/
 │ │ ├── HMASynthetiser.ipynb # Jupyter notebook for synthetic data modeling
 │
-├── requirements.txt # List of Python dependencies
-├── README.md # Project overview and instructions
+├── requirements.txt # List of Python dependencies required for the project
+├── README.md # Project overview and instructions (this file)
 ├── LICENSE # License for the project
-└── .gitignore # Git ignore file
+└── .gitignore # Specifies files and directories to be ignored by git
 
 ## Installation
 
@@ -32,7 +32,7 @@ Follow these steps:
 
 2. **Create a Conda environment**
 
-`conda create --name myenv python=3.11`
+`conda create --name myenv python`
 
 3. **Activate the Conda Environment**
 
