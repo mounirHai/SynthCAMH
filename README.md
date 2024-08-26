@@ -10,7 +10,7 @@ This project explores the use of synthetic data for resource planning in child a
 ```
 ├── notebooks/
 │   ├── exploratory/  
-│   │   ├── prepare_real_data.ipynb   # Jupyter notebook for anonymising and preparing real data available upon request.
+│   │   ├── prepare_real_data.ipynb   # Jupyter notebook for anonymising and preparing, notebook  available upon request.
 │   │
 │   ├── modelling/  
 │   │   ├── synthetise and evaluate quality and privacy/
